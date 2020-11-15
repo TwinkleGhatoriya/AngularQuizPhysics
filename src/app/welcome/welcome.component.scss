@@ -1,0 +1,40 @@
+body{
+    background-color: #E8F75F;
+  }
+  .mat-app-background{
+    background-color: #000057;
+  }
+  
+  .btn-primary{
+    background-color: #000057;
+    font-size: large;
+    color: #fff;
+  }
+  
+  .mat-card:not([class*=mat-elevation-z]) {
+    box-shadow: 0 2px 1px -1px rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 1px 3px 0 rgba(0,0,0,.12);
+  }
+
+  mat-card{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-family: Helvetica;
+    border-color: #fff;
+  }
+  
+  .title{
+    margin: auto;
+    color:black;
+  }
+
+.quiz-btn {
+    display: inline-block;
+    margin: 5px;
+}
+
+.label{
+  font-size: 35px;
+}

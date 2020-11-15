@@ -1,0 +1,39 @@
+[
+  {
+    "label": "When you map out the universe from the smallest scale (the Planck length, which is 1.6×10−35 metres) to the largest (the observable universe, which is 91 billion light years across), what do you find approximately in the middle?",
+    "choices": [
+      {"value": "An electron", "correct": false},
+      {"value": "Life as we know it (cells, molecules, and the like)", "correct": true},
+      {"value": "The Earth", "correct": false},
+      {"value": "Our solar system", "correct": false}
+    ]
+  },
+  {
+    "label": "The largest known star in the galaxy is UY Scuti, in the Scutum Constellation. If it was plopped into the centre of our solar system, where our Sun is now, how much space would it take up?",
+    "choices": [
+      {"value": "It is five times larger than our Sun, and 400 times hotter", "correct": false},
+      {"value": "It would swallow up Earth and all the planets closer to the sun", "correct": false},
+      {"value": "Its outer edge would sit somewhere between Mars and Jupiter", "correct": false},
+      {"value": "Its outer edge would be beyond the orbit of Jupiter - basically half the size of our whole solar system", "correct": true}
+    ]
+  },
+  {
+    "label": "Speaking of our galaxy, there’s a black hole at the middle of the Milky Way, called Sagittarius A*. Roughly how massive is it, compared to our sun?",
+    "choices":[
+      {"value": "4,000 times the mass of our sun", "correct": false},
+      {"value": "400,000 times the mass of our sun", "correct": false},
+      {"value": "4,000,000,000 times the mass of our sun", "correct": true},
+      {"value": "They’re radically different sizes, but the same mass", "correct": false}
+    ]
+  },
+  {
+    "label": "According to special relativity, when an observer at rest looks at a spaceship moving very quickly towards her, what does she see?",
+    "choices": [
+      {"value": "The ship appears shorter and the ship’s clock is ticking more slowly", "correct": true},
+      {"value": "The ship appears longer and the ship’s clock is ticking faster", "correct": false},
+      {"value": "There’s no difference in either length or time", "correct": false},
+      {"value": "It is impossible to ever measure length or time for a moving object", "correct": false}
+    ]
+  }
+]
+

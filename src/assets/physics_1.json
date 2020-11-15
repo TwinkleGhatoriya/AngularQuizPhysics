@@ -1,0 +1,102 @@
+[{
+  "label": "Very simply, what’s the difference between weight and mass",
+  "choices": [{
+      "value": "No difference – they’re synonyms",
+      "correct": false
+    },
+    {
+      "value": "Mass is the amount of matter in an object, weight is the gravitational force on an object",
+      "correct": true
+    },
+    {
+      "value": "Mass is metric, weight is imperial",
+      "correct": false
+    },
+    {
+      "value": "Mass is a measure of size, weight is a measure of density",
+      "correct": false
+    }
+  ]
+},
+{
+  "label": "The laws of physics tell us that energy is?",
+  "choices": [{
+      "value": "Conserved",
+      "correct": true
+    },
+    {
+      "value": "Concerned",
+      "correct": false
+    },
+    {
+      "value": "Constant",
+      "correct": false
+    },
+    {
+      "value": "Contained",
+      "correct": false
+    }
+  ]
+},
+{
+  "label": "Which two elementary particles are described as “massless”?",
+  "choices": [{
+      "value": "Photon and gluon",
+      "correct": true
+    },
+    {
+      "value": "Muon and neutrino",
+      "correct": false
+    },
+    {
+      "value": "Electron and proton",
+      "correct": false
+    },
+    {
+      "value": "None of the above",
+      "correct": false
+    }
+  ]
+},
+{
+  "label": "The universe is made up of three main ingredients: ordinary matter (e.g. stars, planets, people), dark matter, and dark energy. In what proportions",
+  "choices": [{
+      "value": "Mostly matter: 80% ordinary matter / 14% dark matter / 6% dark energy",
+      "correct": false
+    },
+    {
+      "value": "A good mix: 33% ordinary matter / 28% dark matter / 39% dark energy",
+      "correct": false
+    },
+    {
+      "value": "A dark stew: 5% ordinary matter / 27% dark matter / 68% dark energy",
+      "correct": true
+    },
+    {
+      "value": "Potluck: We don’t actually know",
+      "correct": false
+    }
+  ]
+},
+{
+  "label": "Which of these phenomena inspired Albert Einstein in his development of general relativity?",
+  "choices": [{
+      "value": "Seeing an apple drop from tree",
+      "correct": false
+    },
+    {
+      "value": "Watching two trains move in opposite directions",
+      "correct": false
+    },
+    {
+      "value": "The vibration of strings on a violin",
+      "correct": false
+    },
+    {
+      "value": "Seeing a man fall off a roof",
+      "correct": true
+    }
+  ]
+}
+]
+
